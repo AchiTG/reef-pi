@@ -1,89 +1,89 @@
 Key,Translation
 action,Action
-add,add
-alerts,Alerts
+add,προσθήκη
+alerts,Ειδοποιήσεις
 analog_input,Analog Input
 analog_inputs,Analog Inputs
-apply, Apply
-are_you_sure,Are you sure?
+apply,Εφαρμογή
+are_you_sure,Είστε σίγουρος;
 ato,ATO
-cancel,Cancel
+cancel,Ακύρωση
 capabilities,Capabilities
 charts,Charts
-clear,Clear
+clear,Καθαρισμός
 columns,Columns
 configure,Configure
-delete,Delete
-disabled,Disabled
+delete,Διαγραφή
+disabled,Απενεργοποιήθηκε
 documentation,Documentation
 done,Done
-doser,Doser
+doser,Δοσομετρικη
 driver,Driver
-edit,Edit
+edit,Επεξεργασία
 enabled,Enabled
 end_time,End Time
-equipment,Equipment
+equipment,Εξοπλισμός
 errors,Errors
-full_moon,Full Moon
+full_moon,Πανσέληνος
 health,Health
-height,Height
-in-use,in-use
+height,Ύψος
+in-use,σε χρήση
 inlet,Inlet
 inlets,Inlets
-install,Install
+install,Εγκατάσταση
 jack,Jack
 jacks,Jacks
-journal,Journal
-light,Light
-lights,Lights
+journal,Μετρήσεις
+light,Φως
+lights,Φώτα
 loading,Loading ...
 maximum,Maximum
 minimum,Minimum
-name,Name
-no,No
+name,Όνομα
+no,Όχι
 none,None
 off,Off
 ok,Ok
 on,On
 one_shot,One Shot
-optional,Optional
+optional,Προαιρετικά
 outlet,Outlet
 outlets,Outlets
 pin,Pin
 pins,Pins
-profile,Profile
-reset,Reset
+profile,Προφιλ
+reset,Επαναφορά
 reverse,Reverse
-rows,Rows
+rows,Σειρες
 running,running
-save,Save
+save,Αποθήκευση
 schedule,Schedule
-sec,second
-second_s,second(s)
-select,Select
-select_file,Please select a file
+sec,δευτερολεπτο
+second_s,δευτερολεπτο
+select,Επιλογή
+select_file,Επιλέξτε αρχείο
 since,since
-start_time,Start Time
+start_time,Ώρα έναρξης
 status,Status
-stayoffonboot,Stay Off On Boot?
-update,Update
-upgrade_reef_pi,Upgrade reef-pi to version
+stayoffonboot, Να παραμένει κλειστό κατά τη εκκίνηση;
+update,Ανανέωση
+upgrade_reef_pi, Αναβάθμιση reef-pi στην έκδοση
 width,Width
-yes,Yes
-ato:alert_after,Alert After
-ato:ato_usage,ATO Usage
-ato:chk_freq,Check Frequency
-ato:control,Control
-ato:control_target,Target
-ato:controlequipment,Equipment
+yes,Ναι
+ato:alert_after,Ειδοποίηση μετά από
+ato:ato_usage,Χρήση ATO
+ato:chk_freq,Έλεγχος κάθε
+ato:control, Τι ελέγχει;
+ato:control_target, Στόχος
+ato:controlequipment,Εξοπλισμός
 ato:controlmacro,Macro
-ato:controlnothing,Nothing
+ato:controlnothing,Τίποτα
 ato:disable_on_alert,Disable on alert
-ato:reset_usage,Reset
-ato:title_delete,Delete {{name}} ?
-ato:total_seconds_pump_on,Total number of seconds ato pump is on
-ato:warn_delete,This action will delete ATO {{name}}
-ato:warn_reset,This action will reset usage data for ATO {{name}}
+ato:reset_usage,Επαναφορά
+ato:title_delete,Διαγραφη {{name}} ;
+ato:total_seconds_pump_on, Συνολικός χρόνος που η αντλία αναπλήρωσης είναι ανοιχτή
+ato:warn_delete,Αυτή η ενέργεια θα διαγράψει την ATO {{name}}
+ato:warn_reset,Αυτή η ενέργεια θα διαγράψει όλα τα δεδομένα χρήσης της ATO {{name}}
 camera:capture_flags,Capture flags
 camera:enable,Enable
 camera:take_photo,Take Photo!
@@ -93,16 +93,16 @@ camera:tick_must_be_positive,Tick interval has to be a positive integer
 camera:to_gdrive,Upload to gDrive
 capabilities:ato,ATO
 capabilities:camera,Camera
-capabilities:configuration,Configuration
-capabilities:dashboard,Dashboard
+capabilities:configuration,Ρυθμίσεις
+capabilities:dashboard,Αρχική
 capabilities:dev_mode,Dev Mode
-capabilities:doser,Dosers
-capabilities:dosing_pumps,Dosers
-capabilities:equipment,Equipment
+capabilities:doser,Δοσομετρικη
+capabilities:dosing_pumps,Δοσομετρικες
+capabilities:equipment,Εξοπλισμός
 capabilities:health_check,Health check
-capabilities:journal,Journal
-capabilities:lighting,Lighting
-capabilities:lights,Lights
+capabilities:journal,Ημερολόγιο
+capabilities:lighting,Φωτισμός
+capabilities:lights,Φώτα
 capabilities:log,Log
 capabilities:macro,Macro
 capabilities:macros,Macros
